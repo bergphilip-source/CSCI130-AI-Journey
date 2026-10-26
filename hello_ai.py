@@ -1,0 +1,1 @@
+This is a simple reflex agent, the kind described in Chapter 2. It observes something about its environment — the time of day, and what you type — and responds according to fixed rules. There is no learning and no reasoning. It is the simplest thing that can fairly be called an agent, and it is where we start.
